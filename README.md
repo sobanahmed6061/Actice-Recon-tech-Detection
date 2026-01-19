@@ -4,8 +4,8 @@
 **Internship Task:** Offensive Security Tool Development  
 **Organization:** ITSOLERA Cyber Department  
 **Module:** Active Reconnaissance - Technology Detection  
-**Author:** [Your Name]  
-**Date:** January 2026
+**Author:** [Soban Ahmed]  
+**Date:** 19January 2026
 
 ## 🎯 Objective
 This module is part of a modular reconnaissance tool designed to detect web technologies, frameworks, CMS, and server configurations during penetration testing engagements.
