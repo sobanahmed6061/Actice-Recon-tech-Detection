@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+*.swp
+
+# Reports (optional - remove this line if you want to include sample reports)
+# reports/*.txt

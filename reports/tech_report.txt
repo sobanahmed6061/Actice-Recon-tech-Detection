@@ -1,0 +1,12 @@
+============================================================
+Technology Detection Report
+Target: http://testphp.vulnweb.com/
+Timestamp: 2026-01-19 03:53:16
+============================================================
+
+Web Server:
+  - nginx/1.19.0
+
+Programming Languages:
+  - PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1
+

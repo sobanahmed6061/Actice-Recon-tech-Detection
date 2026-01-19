@@ -1,0 +1,19 @@
+============================================================
+Technology Detection Report
+Target: https://uetpeshawar.edu.pk/
+Timestamp: 2026-01-19 04:07:47
+============================================================
+
+Web Server:
+  - Microsoft-IIS/10.0
+
+Content Management System:
+  - WordPress
+
+Frameworks & Libraries:
+  - Bootstrap
+  - jQuery
+
+Programming Languages:
+  - PHP/8.2.15, ASP.NET
+

@@ -1,0 +1,12 @@
+============================================================
+Technology Detection Report
+Target: https://wordpress.org
+Timestamp: 2026-01-19 04:08:24
+============================================================
+
+Web Server:
+  - nginx
+
+Content Management System:
+  - WordPress
+
