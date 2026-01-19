@@ -224,17 +224,12 @@ This module is part of a larger group project. Other modules include:
 - [Python Requests Library](https://requests.readthedocs.io/)
 - [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
-## 📧 Contact
 
-For questions or contributions, please contact:
-- **ITSOLERA Cyber Department**
-- **Team Lead:** Muhammad Ahsan Ayaz
 
 ## 📄 License
 
 This project is created for educational purposes as part of the ITSOLERA Summer Internship Program.
 
 ---
-
-**Submission Date:** June 13, 2025  
+ 
 **Status:** ✅ Completed
