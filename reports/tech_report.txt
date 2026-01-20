@@ -1,12 +1,42 @@
 ============================================================
 Technology Detection Report
-Target: http://testphp.vulnweb.com/
-Timestamp: 2026-01-19 03:53:16
+Target: https://uetpeshawar.edu.pk
+Timestamp: 2026-01-20 02:42:22
 ============================================================
 
+Operating System:
+  - Windows Server (IIS 10.0)
+
 Web Server:
-  - nginx/1.19.0
+  - Microsoft-IIS
+
+Content Management System:
+  - WordPress
+
+Frameworks & Libraries:
+  - jQuery
+  - Bootstrap
 
 Programming Languages:
-  - PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1
+  - PHP
+
+Version Information:
+  - IIS: 10.0
+  - PHP: 8.2.15
+  - WordPress: 6.6.4
+  - Bootstrap: .
+
+Other Technologies:
+  - jQuery Migrate
+  - Bootstrap
+  - PHP
+  - Google Font API
+  - MySQL
+  - IIS
+  - OWL Carousel
+  - WordPress
+  - Windows Server
+  - Elementor
+  - jQuery
+  - Font Awesome
 

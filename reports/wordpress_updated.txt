@@ -1,0 +1,27 @@
+============================================================
+Technology Detection Report
+Target: https://wordpress.org
+Timestamp: 2026-01-20 02:40:15
+============================================================
+
+Operating System:
+  - Linux (Generic)
+
+Web Server:
+  - nginx
+
+Content Management System:
+  - WordPress
+
+Version Information:
+  - WordPress: 22.3.0
+
+Other Technologies:
+  - MySQL
+  - Google Tag Manager
+  - YouTube
+  - PHP
+  - Nginx
+  - Google Font API
+  - WordPress
+

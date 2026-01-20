@@ -1,0 +1,25 @@
+============================================================
+Technology Detection Report
+Target: http://testphp.vulnweb.com/
+Timestamp: 2026-01-20 02:38:21
+============================================================
+
+Operating System:
+  - Linux (Ubuntu 20.04.1)
+
+Web Server:
+  - nginx
+
+Programming Languages:
+  - PHP
+
+Version Information:
+  - nginx: 1.19.0
+  - PHP: 5.6.40
+
+Other Technologies:
+  - Nginx
+  - PHP
+  - DreamWeaver
+  - Ubuntu
+
