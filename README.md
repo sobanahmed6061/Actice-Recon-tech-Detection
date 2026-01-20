@@ -4,8 +4,8 @@
 **Internship Task:** Offensive Security Tool Development  
 **Organization:** ITSOLERA Cyber Department  
 **Module:** Active Reconnaissance - Technology Detection  
-**Author:** [Your Name]  
-**Date:** January 2026
+**Author:** [Soban Ahmed]  
+**Date:** 19January 2026
 
 ## 🎯 Objective
 This module is part of a modular reconnaissance tool designed to detect web technologies, frameworks, CMS, and server configurations during penetration testing engagements.
@@ -224,17 +224,12 @@ This module is part of a larger group project. Other modules include:
 - [Python Requests Library](https://requests.readthedocs.io/)
 - [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
-## 📧 Contact
 
-For questions or contributions, please contact:
-- **ITSOLERA Cyber Department**
-- **Team Lead:** Muhammad Ahsan Ayaz
 
 ## 📄 License
 
 This project is created for educational purposes as part of the ITSOLERA Summer Internship Program.
 
 ---
-
-**Submission Date:** June 13, 2025  
+ 
 **Status:** ✅ Completed
