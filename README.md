@@ -343,5 +343,5 @@ This module is part of a larger group project. Other modules include:
 
 ## 📄 License
 
-This project is created for educational purposes as part of the ITSOLERA Summer Internship Program 2026.
+This project is created for educational purposes as part of the ITSOLERA  Internship Program 2026.
 
